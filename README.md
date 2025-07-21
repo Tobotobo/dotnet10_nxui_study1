@@ -79,3 +79,10 @@ MessageBox.Avalonia を試す
 ![alt text](docs/images/1752972569931.png)  
 ![alt text](docs/images/1752972619653.png)
 
+### ex11, ex12
+DialogHost.Avalonia を試す  
+※ex12 はメソッドチェーンで書いてみたやつ
+
+![alt text](docs/images/1753135651798.png)  
+![alt text](docs/images/1753135680533.png)
+
